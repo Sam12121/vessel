@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/toae/vessel"
+	"github.com/Sam12121/vessel"
 	"github.com/joho/godotenv"
 	"github.com/sirupsen/logrus"
 	"os"

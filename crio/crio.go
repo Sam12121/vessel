@@ -5,7 +5,7 @@ import (
 	"os/exec"
 	"strings"
 
-	"github.com/toae/vessel/utils"
+	"github.com/Sam12121/vessel/utils"
 	"github.com/sirupsen/logrus"
 )
 
